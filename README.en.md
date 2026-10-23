@@ -145,3 +145,11 @@ Argus runs invisibly in the background:
 
 Free to use, privately and commercially. Modifying, reverse engineering and redistributing are not permitted – see
 [LIZENZ.md](LIZENZ.md). The image models have their own licenses (shown for every model in the window).
+
+> **No modification.** The Image Workshop is distributed only as a finished, compiled program; the source code is not
+> public. You may **not** modify, reverse engineer (decompile, disassemble) or redistribute it under another name. You
+> may only share the link to the official download page.
+
+> **Responsibility for the images.** **You** are responsible for the images you generate. Do not create content that
+> breaks applicable law or the license of the image model you use (e.g. third-party rights, trademarks, personality
+> rights, content harmful to minors or otherwise prohibited). The Image Workshop does not check the content.

@@ -14,7 +14,11 @@ Copyright © 2026 ExtremeLemming. Alle Rechte vorbehalten. / All rights reserved
    zulässig (unberührt bleibt die Haftung für Vorsatz, grobe Fahrlässigkeit und Verletzung von Leben, Körper, Gesundheit).
 4. **Bestandteile Dritter:** Python, PyTorch, diffusers, Git, die Bildmodelle sowie die Dienste GitHub, Hugging Face und
    ntfy stehen unter ihren eigenen Lizenzen und Bedingungen. Die Bildwerkstatt lädt sie nur auf deinen PC.
-5. Die Bildwerkstatt ist für die Arbeit mit **Claude** (Anthropic) gebaut; Claude ist nicht Teil dieser Software.
+5. **Verantwortung für erzeugte Bilder:** Für die mit der Bildwerkstatt erzeugten Bilder bist allein du verantwortlich.
+   Erzeuge keine Inhalte, die gegen geltendes Recht oder gegen die Lizenz des jeweiligen Bildmodells verstoßen (u. a.
+   Rechte Dritter, Marken, Persönlichkeitsrechte, jugendgefährdende oder verbotene Darstellungen). Die Software prüft,
+   erzeugt und speichert Inhalte nicht selbsttätig und übernimmt dafür keine Haftung.
+6. Die Bildwerkstatt ist für die Arbeit mit **Claude** (Anthropic) gebaut; Claude ist nicht Teil dieser Software.
 
 ## English
 
@@ -26,6 +30,10 @@ Copyright © 2026 ExtremeLemming. Alle Rechte vorbehalten. / All rights reserved
 3. **No warranty:** The software is provided “as is”. Liability is excluded to the extent permitted by law.
 4. **Third-party components:** Python, PyTorch, diffusers, Git, the image models and the services GitHub, Hugging Face and
    ntfy are subject to their own licenses and terms. The Image Workshop only downloads them to your PC.
-5. The Image Workshop is built to work with **Claude** (Anthropic); Claude is not part of this software.
+5. **Responsibility for generated images:** You alone are responsible for the images generated with the Image Workshop.
+   Do not create content that breaks applicable law or the license of the image model you use (including third-party
+   rights, trademarks, personality rights, content harmful to minors or otherwise prohibited). The software does not
+   check, create or store content on its own and accepts no liability for it.
+6. The Image Workshop is built to work with **Claude** (Anthropic); Claude is not part of this software.
 
 Bei Abweichungen gilt die deutsche Fassung. / In case of discrepancies, the German version prevails.

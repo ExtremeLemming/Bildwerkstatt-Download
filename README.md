@@ -153,3 +153,11 @@ Argus läuft unsichtbar im Hintergrund:
 
 Kostenlos nutzbar, privat und gewerblich. Verändern, Zurückübersetzen und Weiterverbreiten sind nicht erlaubt – Details in
 [LIZENZ.md](LIZENZ.md). Die Bildmodelle haben eigene Lizenzen (im Fenster bei jedem Modell angezeigt).
+
+> **Kein Verändern.** Die Bildwerkstatt wird nur als fertiges, kompiliertes Programm verteilt; der Quellcode ist nicht
+> öffentlich. Du darfst das Programm **nicht** verändern, zurückübersetzen (dekompilieren, disassemblieren) oder unter
+> einem anderen Namen weitergeben. Weitergeben darfst du nur den Link auf die offizielle Download-Seite.
+
+> **Verantwortung für die Bilder.** Für die Bilder, die du erzeugst, bist **du** verantwortlich. Erstelle keine Inhalte,
+> die gegen geltendes Recht oder gegen die Lizenz des jeweiligen Bildmodells verstoßen (z. B. Rechte Dritter, Marken,
+> Persönlichkeitsrechte, jugendgefährdende oder verbotene Darstellungen). Die Bildwerkstatt prüft die Inhalte nicht.
