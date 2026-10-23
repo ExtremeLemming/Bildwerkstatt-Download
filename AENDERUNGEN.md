@@ -1,5 +1,13 @@
 # Änderungen / Changelog
 
+## v3.1.7
+
+**Deutsch**
+- Argus und der Rechenprozess öffnen im Hintergrund kein GitHub-Anmeldefenster mehr (vorher bei fehlender Anmeldung alle paar Minuten eine neue Rückfrage „Select an account“).
+
+**English**
+- Argus and the render process no longer open a GitHub sign-in window in the background (previously a new “Select an account” prompt every few minutes).
+
 ## v1.0.0
 
 **Deutsch**
