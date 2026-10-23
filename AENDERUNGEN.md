@@ -1,5 +1,17 @@
 # Änderungen / Changelog
 
+## v3.1.8
+
+**Deutsch**
+- Live-Fortschritt beim **Herunterladen** der Bildmodelle: Balken füllt sich jetzt sofort mit GB und Tempo (vorher blieb er oft leer).
+- Zusätzlicher Schutz: Programmteile und EXE sind mit UPX gepackt (kleinerer Download, schwerer einzusehen).
+- Hinweis „kein Verändern/Reverse Engineering“ und „Verantwortung für erzeugte Bilder“ in README und Lizenz; Sprachumschalter DE/EN oben.
+
+**English**
+- Live progress while **downloading** image models: the bar now fills immediately with GB and speed (previously it often stayed empty).
+- Extra protection: program parts and the EXE are packed with UPX (smaller download, harder to inspect).
+- Notice “no modification/reverse engineering” and “responsibility for generated images” in README and license; DE/EN switch at the top.
+
 ## v3.1.7
 
 **Deutsch**
