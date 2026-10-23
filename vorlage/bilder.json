@@ -1,0 +1,11 @@
+{
+ "stil": {
+  "szene": "Style: photorealistic, cinematic, natural warm lighting, rich realistic detail. Absolutely no text, no letters, no writing, no logos, no watermarks. No real, identifiable people.",
+  "portraet": "Style: photorealistic portrait photograph, head and upper body, soft studio lighting, neutral dark background, 85mm lens. Absolutely no text, no letters, no logos, no watermarks. Fictional person."
+ },
+ "bilder": {
+  "titelbild": {"prompt": "A lonely lighthouse on a cliff at dusk, storm clouds, waves crashing.", "format": "16:9"},
+  "kapitaenin": {"prompt": "A weathered female ship captain in her fifties with a grey braid and a navy coat.", "format": "3:4", "stil": "portraet"},
+  "ende_sturm": {"prompt": "A ship sinking in a huge storm at night, lightning.", "format": "16:9", "varianten": 6}
+ }
+}

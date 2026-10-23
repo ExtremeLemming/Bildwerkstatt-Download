@@ -1,0 +1,51 @@
+{
+ "_hinweis": "Konfiguration der Bildwerkstatt für dieses Projekt / Image Workshop configuration for this project. Liegt im Hauptordner des Projekts UND des Werkstatt-Zweigs (übertragen mit: bwc zweig). Schlüssel mit _ werden ignoriert. Weggelassene Schlüssel haben Standardwerte.",
+ "name": "Mein Spiel",
+ "zweig": "bildwerkstatt",
+ "beschreibungen": "data/bilder.json",
+ "beschreibungen_zweig": "",
+ "ordner": "art",
+ "varianten": 4,
+ "modell": "black-forest-labs/FLUX.2-klein-4B",
+ "standard_format": "16:9",
+ "formate": {
+  "21:9": [
+   1568,
+   672
+  ]
+ },
+ "stil_standard": "szene",
+ "stil_praefix": "",
+ "stil_suffix": "",
+ "felder": {
+  "bilder": "bilder",
+  "stile": "stil",
+  "prompt": "prompt",
+  "format": "format",
+  "stil": "stil",
+  "gruppe": "gruppe"
+ },
+ "gruppen": [
+  {
+   "name": "Porträts",
+   "stil": "portraet"
+  },
+  {
+   "name": "Enden",
+   "praefix": "ende_"
+  },
+  {
+   "name": "Szenen",
+   "rest": true
+  }
+ ],
+ "dateiformat": "jpg",
+ "qualitaet": 92,
+ "uebernehmen": {
+  "ziel": "assets/bilder",
+  "max_kante": 1600,
+  "format": "jpg"
+ },
+ "sparse": [],
+ "_modelle": "black-forest-labs/FLUX.2-klein-4B | Tongyi-MAI/Z-Image-Turbo | Tongyi-MAI/Z-Image | baidu/ERNIE-Image-Turbo | baidu/ERNIE-Image | meituan-longcat/LongCat-Image | Qwen/Qwen-Image-2512 | black-forest-labs/FLUX.2-klein-9B (nur nicht-kommerziell / non-commercial only)"
+}
