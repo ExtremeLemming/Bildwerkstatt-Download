@@ -1,6 +1,6 @@
-# Bildwerkstatt
+**🇩🇪 Deutsch** &nbsp;|&nbsp; **[🇬🇧 English](README.en.md)**
 
-**[English version → README.en.md](README.en.md)**
+# Bildwerkstatt
 
 Die Bildwerkstatt malt Bilder für deine Projekte (Spiele, Webseiten, Bücher …) **auf deiner eigenen NVIDIA-Grafikkarte** –
 **kostenlos, ohne API, ohne Abo**. Sie arbeitet mit frei herunterladbaren Bildmodellen und lädt jedes Bild automatisch in

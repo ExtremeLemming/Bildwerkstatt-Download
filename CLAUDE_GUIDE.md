@@ -1,6 +1,6 @@
-# Image Workshop – guide for Claude
+**[🇩🇪 Deutsch](ANLEITUNG_FUER_CLAUDE.md)** &nbsp;|&nbsp; **🇬🇧 English**
 
-**[Deutsch → ANLEITUNG_FUER_CLAUDE.md](ANLEITUNG_FUER_CLAUDE.md)**
+# Image Workshop – guide for Claude
 
 The user said: “I have an Image Workshop you can use.” This explains how to set it up for their project and use it.
 Talk to the user in their language.

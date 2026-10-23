@@ -1,6 +1,6 @@
-# Image Workshop (Bildwerkstatt)
+**[🇩🇪 Deutsch](README.md)** &nbsp;|&nbsp; **🇬🇧 English**
 
-**[Deutsche Version → README.md](README.md)**
+# Image Workshop (Bildwerkstatt)
 
 The Image Workshop paints images for your projects (games, websites, books …) **on your own NVIDIA graphics card** –
 **free, no API, no subscription**. It uses freely downloadable image models and uploads every image to your project on

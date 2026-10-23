@@ -1,6 +1,6 @@
-# Bildwerkstatt – Anleitung für Claude
+**🇩🇪 Deutsch** &nbsp;|&nbsp; **[🇬🇧 English](CLAUDE_GUIDE.md)**
 
-**[English → CLAUDE_GUIDE.md](CLAUDE_GUIDE.md)**
+# Bildwerkstatt – Anleitung für Claude
 
 Der Nutzer hat gesagt: „Ich habe eine Bildwerkstatt, die du benutzen kannst.“ Hier steht, wie du sie für sein Projekt
 einrichtest und benutzt. Sprich mit ihm in seiner Sprache.
